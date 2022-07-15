@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @x-normalize
-- 👀 I’m interested in codding 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="top" src="https://codeweek-s3.s3.amazonaws.com/event_picture/SoftUni-Logo-Flat.png" width='100%'>
 
-<!---
-x-normalize/x-normalize is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I am currently a student at Softuni University
+==========================
+
+| Course | Links |
+| --- | --- |
+| Programming Basics with Python
