@@ -1,4 +1,4 @@
-<img align="top" src="https://eu-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fsoftuni.bg%2FContent%2Fimages%2Fopen-graph%2Funiversity-default-og.png&sp=1657987447Td2ee33046d99746e48f2c2c058f050c88da7ecc6feea4e3fbc8c5581176eae1a" width='100%'>
+<img align="top" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcreative.softuni.bg%2FContent%2Fimages%2Fsvg-logos%2Fsoftuni-logo.svg&sp=1657987447T61fd075cd9e16c8d03d0094fe7672ef50034419150f8a95f49e0f490c97e797b" width='100%'>
 
 
 I am currently a student at Softuni University
