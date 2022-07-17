@@ -1,4 +1,4 @@
-<img align="top" src="https://images.app.goo.gl/uKkKsC5t5gPuBK6y8" width='100%'>
+<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_Software_University_%28SoftUni%29_-_blue_background.png" width='100%'>
 
 Hello,
 I am currently a student at SoftUni University! 
