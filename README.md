@@ -5,8 +5,7 @@ I am currently a student at SoftUni University!
 ===============================================
 
 | Course | Links |
-| --- | --- |
-| Programming Basics with Python | |
+| Programming Basics with Python | https://softuni.bg/apply | 
 | Skills i will acquire:
 | Working with the console (data input and output)
 | Working with loops (for)
