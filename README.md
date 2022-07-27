@@ -6,12 +6,12 @@ I am currently a student at SoftUni University!
 | Course | Links |
 | --- | --- |
 | Programming Basics with Python | https://softuni.bg/apply | 
-================================================
-| Skills i will acquire:
-| Working with the console (data input and output)
-| Working with loops (for)
-| Work with more complex logical checks
-| Working with logical checks (if-else)
-| Perform simple calculations
-| Working with more complex loops (nested for loops and while)
+
+            Skills i will acquire:
+1 ) Working with the console (data input and output)
+2 ) Working with loops (for)
+3 ) Work with more complex logical checks
+4 ) Working with logical checks (if-else)
+5 ) Perform simple calculations
+6 ) Working with more complex loops (nested for loops and while)
 
