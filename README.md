@@ -3,11 +3,11 @@
 ===========================================================================
 | Course | N |
 | --- | --- |
-| Programming Basics with Python | 1 | 
-Working with the console (data input and output) | 2 |
-Working with loops (for) | 3 |
-Work with more complex logical checks | 4 |
-Working with logical checks (if-else) | 5 |
-Perform simple calculations | 6 |
-Working with more complex loops (nested for loops and while) | 7 |
+| Programming Basics with Python |  | 
+Working with the console (data input and output) | 1 |
+Working with loops (for) | 2 |
+Work with more complex logical checks | 3 |
+Working with logical checks (if-else) | 4 |
+Perform simple calculations | 5 |
+Working with more complex loops (nested for loops and while) | 6 |
 
