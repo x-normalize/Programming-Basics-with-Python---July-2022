@@ -3,7 +3,7 @@
 ===========================================================================
 | Course | Links |
 | --- | --- |
-| Programming Basics with Python | https://softuni.bg/apply | 
+| Programming Basics with Python |  | 
 1 ) Working with the console (data input and output)
 2 ) Working with loops (for)
 3 ) Work with more complex logical checks
