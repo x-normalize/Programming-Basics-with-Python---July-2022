@@ -18,3 +18,5 @@ The [Programming Basics](https://softuni.bg/trainings/2810/programming-basics-wi
 -	Working with logical checks (**if-else**, **switch**)
 -	Working with more complex loops (**nested** for loops and while loops)
 
+## Certificate
+https://softuni.bg/certificates/details/140372/ba64aca9
