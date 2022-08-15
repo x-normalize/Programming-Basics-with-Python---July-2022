@@ -19,5 +19,5 @@ The [Programming Basics](https://softuni.bg/trainings/2810/programming-basics-wi
 -	Working with more complex loops (**nested** for loops and while loops)
 
 ## Certificate
-[Programming Basics - July 2022 - Certificate.pdf](https://github.com/x-normalize/Python-Basics/files/9337263/Programming.Basics.-.July.2022.-.Certificate.pdf)
+https://softuni.bg/certificates/details/140372/ba64aca9
 
