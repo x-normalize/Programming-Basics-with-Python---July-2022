@@ -22,4 +22,5 @@ The [Programming Basics](https://softuni.bg/trainings/2810/programming-basics-wi
 https://softuni.bg/certificates/details/140372/ba64aca9
 
 ![image](https://user-images.githubusercontent.com/94692820/184637645-4865c57d-ffc5-4bb1-b1ea-6b25a46963b3.png)
-![image](https://user-images.githubusercontent.com/94692820/184637735-62750a7a-42cd-4f9f-b5d7-4461644c2b37.png)
+![2022-08-17 08_56_28-Settings](https://user-images.githubusercontent.com/94692820/185045219-6a5937b8-9aed-4865-93b8-1505e61cd541.png)
+
