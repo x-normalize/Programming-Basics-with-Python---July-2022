@@ -21,6 +21,5 @@ The [Programming Basics](https://softuni.bg/trainings/2810/programming-basics-wi
 ## Certificate
 https://softuni.bg/certificates/details/140372/ba64aca9
 
-![2022-08-17 08_58_07-Сертификат - Programming Basics - July 2022 - Софтуерен университет - Brave](https://user-images.githubusercontent.com/94692820/185045428-80a6a357-72be-4bf1-8418-59c7c458be2a.png)
-![2022-08-17 08_56_28-Settings](https://user-images.githubusercontent.com/94692820/185045219-6a5937b8-9aed-4865-93b8-1505e61cd541.png)
+![Programming Basics - July 2022 - Certificate](https://user-images.githubusercontent.com/94692820/188166663-e5cb06fc-8b57-408e-b1a8-5fa5802d75e2.jpeg)
 
